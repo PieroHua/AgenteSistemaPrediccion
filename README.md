@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Dashboard de Predicción Cardíaca
 
 ## Descripción

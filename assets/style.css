@@ -1,0 +1,39 @@
+.main-header {
+    font-size: 3rem;
+    color: #1f77b4;
+    text-align: center;
+    margin-bottom: 2rem;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+}
+.metric-card {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    padding: 1rem;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    margin: 0.5rem 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.prediction-positive {
+    background: linear-gradient(135deg, #ff6b6b 0%, #ee5a52 100%);
+    padding: 1rem;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    border-left: 5px solid #ff4757;
+}
+.prediction-negative {
+    background: linear-gradient(135deg, #5cb85c 0%, #449d44 100%);
+    padding: 1rem;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    border-left: 5px solid #28a745;
+}
+.sidebar .sidebar-content {
+    background: linear-gradient(180deg, #667eea 0%, #764ba2 100%);
+}
+.stAlert {
+    border-radius: 10px;
+}
+
